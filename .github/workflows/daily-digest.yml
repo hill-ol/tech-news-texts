@@ -1,0 +1,39 @@
+name: Daily Tech Digest
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # 8:00 AM EST (UTC-5)
+  workflow_dispatch:       # allows manual trigger from GitHub Actions tab
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # needed to commit updated seen.json back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run digest
+        env:
+          NEWSAPI_KEY:   ${{ secrets.NEWSAPI_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PHONE_NUMBER:  ${{ secrets.PHONE_NUMBER }}
+        run: node index.js
+
+      - name: Commit updated seen.json
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen.json
+          git diff --staged --quiet || git commit -m "chore: update seen articles [skip ci]"
+          git push
