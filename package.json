@@ -1,0 +1,14 @@
+{
+  "name": "tech-news-texts",
+  "version": "1.0.0",
+  "description": "Daily AI/tech news digest delivered via SMS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "node index.js --dry-run"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}
