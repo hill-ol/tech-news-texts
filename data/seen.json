@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "url": "https://www.wired.com/story/internet-in-iran-starts-to-return-after-3-month-blackout/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-outdoor-security-cameras/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/gallery/the-best-packing-cubes/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/tech/937378/govee-white-supremacy-book-promotional-image",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-toiletry-bags/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/podcast/937188/clips-internet-feed-fitbit-air-vergecast",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/review/google-fitbit-air/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/household-chores-training-robots/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/ai-or-die-trying/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23908",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23909",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23926",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23928",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23929",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23930",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23931",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23932",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23934",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23935",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23936",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23937",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23938",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23939",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.23940",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/technology/why-prompt-debt-retrieval-debt-and-evaluation-debt-are-quietly-reshaping-enterprise-ai-risk",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/virgin-atlantic",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/adventhealth",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/ramp",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/index/databricks",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "seenAt": 1779819061595
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "seenAt": 1779819061595
+  }
+]

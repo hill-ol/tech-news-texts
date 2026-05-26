@@ -1,3 +1,5 @@
+const nodemailer = require('nodemailer');
+
 async function sendText(message, dryRun = false) {
   if (dryRun) {
     console.log('\n--- SMS PREVIEW (dry run) ---');
@@ -6,22 +8,22 @@ async function sendText(message, dryRun = false) {
     return;
   }
 
-  const res = await fetch('https://textbelt.com/text', {
-    method: 'POST',
-    body:   new URLSearchParams({
-      phone:   process.env.PHONE_NUMBER,
-      message: message,
-      key:     'textbelt', // free tier: 1 text/day
-    }),
+  const transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+      user: process.env.GMAIL_USER,
+      pass: process.env.GMAIL_APP_PASSWORD,
+    },
   });
 
-  const data = await res.json();
+  await transporter.sendMail({
+    from:    process.env.GMAIL_USER,
+    to:      process.env.PHONE_GATEWAY,  // e.g. 6175551234@tmomail.net
+    subject: '',
+    text:    message,
+  });
 
-  if (!data.success) {
-    throw new Error(`TextBelt error: ${data.error || JSON.stringify(data)}`);
-  }
-
-  console.log(`Text sent successfully. Quota remaining: ${data.quotaRemaining}`);
+  console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
 }
 
 module.exports = { sendText };
