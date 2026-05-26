@@ -16,14 +16,17 @@ async function sendText(message, dryRun = false) {
     },
   });
 
-  await transporter.sendMail({
-    from:    process.env.GMAIL_USER,
-    to:      process.env.PHONE_GATEWAY,  // e.g. 6175551234@tmomail.net
-    subject: '',
-    text:    message,
-  });
-
-  console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
+  try {
+    await transporter.sendMail({
+      from:    process.env.GMAIL_USER,
+      to:      process.env.PHONE_GATEWAY,
+      subject: '',
+      text:    message,
+    });
+    console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
+  } finally {
+    transporter.close(); // explicitly close SMTP connection so Node exits cleanly
+  }
 }
 
 module.exports = { sendText };
