@@ -1,39 +1,28 @@
-const nodemailer = require('nodemailer');
-
 async function sendText(message, dryRun = false) {
   if (dryRun) {
-    console.log('\n--- SMS PREVIEW (dry run) ---');
+    console.log('\n--- MESSAGE PREVIEW (dry run) ---');
     console.log(message);
-    console.log('-----------------------------');
+    console.log('---------------------------------');
     return;
   }
 
-  const transporter = nodemailer.createTransport({
-    service: 'gmail',
-    auth: {
-      user: process.env.GMAIL_USER,
-      pass: process.env.GMAIL_APP_PASSWORD,
-    },
+  const url = `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendMessage`;
+
+  const res = await fetch(url, {
+    method:  'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body:    JSON.stringify({
+      chat_id: process.env.TELEGRAM_CHAT_ID,
+      text:    message,
+    }),
   });
 
-  await transporter.sendMail({
-    from:    process.env.GMAIL_USER,
-    to:      process.env.PHONE_GATEWAY,
-    subject: '',
-    text:    message,
-  });
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`Telegram error: ${res.status} ${res.statusText} — ${err}`);
+  }
 
-  console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
-
-  // Wait for the SMTP connection to fully close before returning
-  await new Promise((resolve) => {
-    transporter.on('idle', () => {
-      transporter.close();
-      resolve();
-    });
-    // Fallback: resolve after 2s if idle never fires
-    setTimeout(resolve, 2000);
-  });
+  console.log('Message sent successfully via Telegram.');
 }
 
 module.exports = { sendText };
