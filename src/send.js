@@ -16,17 +16,24 @@ async function sendText(message, dryRun = false) {
     },
   });
 
-  try {
-    await transporter.sendMail({
-      from:    process.env.GMAIL_USER,
-      to:      process.env.PHONE_GATEWAY,
-      subject: '',
-      text:    message,
+  await transporter.sendMail({
+    from:    process.env.GMAIL_USER,
+    to:      process.env.PHONE_GATEWAY,
+    subject: '',
+    text:    message,
+  });
+
+  console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
+
+  // Wait for the SMTP connection to fully close before returning
+  await new Promise((resolve) => {
+    transporter.on('idle', () => {
+      transporter.close();
+      resolve();
     });
-    console.log(`Text sent successfully to ${process.env.PHONE_GATEWAY}`);
-  } finally {
-    transporter.close(); // explicitly close SMTP connection so Node exits cleanly
-  }
+    // Fallback: resolve after 2s if idle never fires
+    setTimeout(resolve, 2000);
+  });
 }
 
 module.exports = { sendText };

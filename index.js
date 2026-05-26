@@ -64,7 +64,7 @@ async function main() {
     console.log('Done.');
 }
 
-main().then(() => setTimeout(() => process.exit(0), 3000)).catch(err => {
+main().then(() => process.exit(0)).catch(err => {
     console.error('Fatal error:', err);
     process.exit(1);
 });
