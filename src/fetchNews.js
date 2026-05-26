@@ -10,7 +10,6 @@ const RSS_FEEDS = [
   { url: 'https://www.technologyreview.com/feed/',               source: 'technologyreview.mit.edu' },
   { url: 'https://venturebeat.com/feed/',                        source: 'venturebeat.com' },
   { url: 'http://arxiv.org/rss/cs.AI',                           source: 'arxiv.org' },
-  { url: 'https://www.anthropic.com/news/rss',                   source: 'anthropic.com' },
   { url: 'https://openai.com/blog/rss.xml',                      source: 'openai.com' },
 ];
 

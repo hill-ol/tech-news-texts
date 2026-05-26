@@ -31,15 +31,15 @@ SELECTION RULES:
 - Prioritize recency — prefer articles published most recently
 - If multiple articles cover the same event, collapse into ONE entry:
     * Pick the highest-tier source
-    * If same tier, pick the one with more specific technical detail (numbers, names, research)
+    * If same tier, pick the one with more specific technical detail
     * If still tied, pick the more recent one
-- Deprioritize stories that appear from only one source with no corroboration elsewhere in the batch
+- Deprioritize stories that appear from only one source with no corroboration
 - Deprioritize opinion pieces, editorials, sponsored content, and speculative fear-mongering
 - Prefer articles that cite specific facts, numbers, named people, or research
 
 SUMMARY RULES:
-- Each summary is exactly one sentence, maximum 20 words
-- Be factual and specific — no hype, no vague language
+- Each summary is exactly one sentence, between 15 and 20 words
+- Be factual and specific — include a key detail, number, or named entity from the article
 - Do not start summaries with "This article", "The piece", or similar
 - Do not use em dashes in summaries
 
@@ -68,32 +68,32 @@ ARTICLES:
 ${JSON.stringify(articles, null, 2)}
 `.trim();
 
-  if (dryRun) {
-    console.log('\n--- PROMPT PREVIEW (dry run) ---');
-    console.log(`Sending ${articles.length} articles to Gemini...`);
-    return '[DRY RUN] Gemini call skipped.';
-  }
+  console.log(`Sending ${articles.length} articles to Groq...`);
 
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
-    {
-      method:  'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body:    JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.2 }, // low temp = more consistent, factual output
-      }),
-    }
-  );
+  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+    method:  'POST',
+    headers: {
+      'Content-Type':  'application/json',
+      'Authorization': `Bearer ${process.env.GROQ_API_KEY}`,
+    },
+    body: JSON.stringify({
+      model:       'llama-3.3-70b-versatile',
+      temperature: 0.2,
+      messages: [
+        { role: 'user', content: prompt }
+      ],
+    }),
+  });
 
   if (!res.ok) {
-    throw new Error(`Gemini API error: ${res.status} ${res.statusText}`);
+    const err = await res.text();
+    throw new Error(`Groq API error: ${res.status} ${res.statusText} — ${err}`);
   }
 
   const data = await res.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+  const text = data?.choices?.[0]?.message?.content;
 
-  if (!text) throw new Error('Gemini returned an empty response');
+  if (!text) throw new Error('Groq returned an empty response');
 
   return text.trim();
 }
