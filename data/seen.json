@@ -1,81 +1,5 @@
 [
   {
-    "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/story/apple-child-safety-ios-27/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/gallery/best-stem-toys-for-kids/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.wired.com/gallery/best-pet-cameras/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-    "seenAt": 1783866183638
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "seenAt": 1783866183638
-  },
-  {
     "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
     "seenAt": 1783957113459
   },
@@ -1614,5 +1538,185 @@
   {
     "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
     "seenAt": 1784470832749
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/967822/airpods-max-2-logitech-superstrike-kodak-charmera-deal-sale",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-family-board-games/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/story/mushroom-growing-methods/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/story/teenagers-running-trackflation/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15280",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15281",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15314",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15367",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15388",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15418",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15439",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15442",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15459",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15480",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15532",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15550",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15592",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15647",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.15660",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "seenAt": 1784559724481
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+    "seenAt": 1784559724481
   }
 ]
