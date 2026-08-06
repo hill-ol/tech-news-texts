@@ -1,253 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/entertainment/973002/spotify-running-mode-launch-bpm-playlists",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/972612/amazons-kindle-short-stories",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/gallery/the-best-vacuum-cleaner/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/gallery/best-shower-water-filters/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/best-budget-smartwatch/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/dont-get-too-attached-to-jimothy/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/review/tcl-tab-a1-plus-tablet/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/technology/companies-are-finally-seeing-ai-roi-and-now-they-know-how-much-more-value-it-can-deliver",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/security/ntt-data-aivista-and-snowflake-identity-alone-wont-secure-enterprise-ai-agents",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/nike-promo-code/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/doordash-promo-code/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/29/spotify-adds-a-running-mode-to-its-app/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://openai.com/index/ntt-data",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-    "seenAt": 1785423758537
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
-    "seenAt": 1785423758537
-  },
-  {
     "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
     "seenAt": 1785510767985
   },
@@ -1478,5 +1230,281 @@
   {
     "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
     "seenAt": 1785942485236
+  },
+  {
+    "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/gadgets/976103/samsung-galaxy-z-fold-flip-8-preorder-airpods-pro-3-deal-sale",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/tech/975870/viture-pro-2-video-ar-smart-glasses-hands-on",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.theverge.com/tech/976079/google-ask-maps-food-ordering-personal-intelligence",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-ai-notetakers/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/perseid-meteor-shower-eclipses-august-2026-astronomical-calendar/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/best-android-charger/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/review/samsung-g8-g80hs/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/microsoft-quantum-chief-majorana-results/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/review/shark-powerdetect-speed/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/gallery/best-coffee-subscriptions/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/best-handheld-and-portable-fans/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://venturebeat.com/security/the-browser-is-where-attacks-land-why-is-security-still-focused-on-the-endpoint",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/hungryroot-promo-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/govee-discount-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/brooks-promo-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/nzxt-discount-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/norton-coupon-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.wired.com/story/max-promo-code/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04012",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04066",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04071",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04077",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04095",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04156",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04190",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04205",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04232",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04285",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04289",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04358",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04384",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04458",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04509",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+    "seenAt": 1786028960227
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+    "seenAt": 1786028960227
   }
 ]
